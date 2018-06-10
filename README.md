@@ -69,7 +69,7 @@ Because it seems to me that we need more properties to create style.js (or Vecto
 
 ## which frameworks and front-end libraries do I want to support?
 ### frameworks
-- Geocortex Essential
+- Geocortex Essentials
 - GeoNode
 
 ### front-end libraries
